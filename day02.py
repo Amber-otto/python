@@ -103,3 +103,26 @@
 #    print(message[i])
 #    i += 1
 
+# a = "fAAAl234slfH9H769fjdla"
+# num = 0
+# for i in a[:4]:
+#     if i == "A":
+#         num += 1
+# print(num)
+
+# num1 = "asdfd123sf2312"
+# num2 = "a12dfd183sf23"
+# a = ""
+# b = ""
+# for i in num1:
+#     if i.isdecimal():
+#         a += i
+# print(a)
+# for i in num2:
+#     if i.isdecimal():
+#         b += i
+# print(b)
+# print(int(a)+int(b))
+#
+
+
